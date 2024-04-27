@@ -1,0 +1,83 @@
+.order {
+	display: flex;
+	flex-direction: column;
+	margin-right: 30px;
+	border: 3px solid #2b3035;
+	border-radius: 10px;
+	padding: 2%;
+}
+.tdimage {
+	max-width: 150px;
+}
+
+td {
+	text-align: center;
+	vertical-align: middle;
+}
+
+th {
+	text-align: center;
+}
+
+table {
+	margin: auto;
+}
+
+i {
+	font-size: 30px;
+	color: #2b3035;
+}
+
+.cart {
+	display: flex;
+	justify-content: center;
+	width: 70%;
+	margin: 2% 10% 2% 10%;
+}
+
+.form {
+	display: flex;
+	flex-direction: column;
+	align-items: end;
+	border: 3px solid #2b3035;
+	border-radius: 10px;
+	padding: 2%;
+	max-height: 600px;
+}
+
+.headfeet {
+	width: 300px;
+}
+
+Form {
+	width: 300px;
+}
+
+.buton {
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: space-between;
+	min-width: 300px;
+}
+
+.icart {
+	color: white;
+}
+
+.checkoutForm {
+	border: 3px solid #2b3035;
+	border-radius: 10px;
+	padding: 10%;
+	margin: 2%;
+}
+
+h2 {
+	margin: 5px;
+	color: #b84242;
+}
+
+h3 {
+	padding: 5px;
+	margin: 5px;
+}
